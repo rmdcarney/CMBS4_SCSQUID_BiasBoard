@@ -10,5 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e233d652-85e9-4f06-a833-b22ef81669ef)
   )
-  (pad "1" smd roundrect (at 0 0) (size 5 5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 610d02b3-d069-4cdf-8055-ebc9b8b75d94))
+  (pad "1" thru_hole roundrect (at 0 -2) (size 4 2) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.05) (tstamp 109558fb-8d65-430d-b6b7-b9850f2cde96))
+  (pad "1" thru_hole roundrect (at 0 2) (size 4 2) (drill 1.5) (layers *.Cu *.Mask) (roundrect_rratio 0.05) (tstamp 82c1e661-8e29-4cf2-8da9-41edca419b03))
+  (pad "1" smd rect (at 0 0) (size 4 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f7fd83f7-397a-433a-ac42-dbb5fa0ce3e2))
 )
