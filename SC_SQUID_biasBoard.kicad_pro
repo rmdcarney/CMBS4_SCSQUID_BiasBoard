@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3Dmodels/SC_SQUID_biasBoard_verA.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
