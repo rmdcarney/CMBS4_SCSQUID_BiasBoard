@@ -15,7 +15,7 @@
       (xy 4 -4)
       (xy 4 4)
       (xy -4 4)
-    ) (layer "F.CrtYd") (width 0) (fill none) (tstamp f809b4b1-c2b4-4afd-ac76-6287090e55dc))
+    ) (layer "F.CrtYd") (width 0.1) (fill none) (tstamp f809b4b1-c2b4-4afd-ac76-6287090e55dc))
   (pad "1" thru_hole rect (at 2.54 2.54) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp 2c0abed4-6cbb-4271-86f9-1ec79f37255a))
   (pad "1" thru_hole rect (at 2.54 0) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp 3a2dae90-7d75-4b21-95cc-e095a6c2de5a))
   (pad "1" thru_hole rect (at -2.54 2.54) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp 4d4b022a-d0ef-4c9b-b194-fd1e8638b7e0))
@@ -25,4 +25,9 @@
   (pad "1" thru_hole rect (at -2.54 0) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp bf6b2fd5-6f52-4303-ac20-a8c8abe46f90))
   (pad "1" thru_hole rect (at 2.54 -2.54) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp db2a0016-489d-481d-b2b9-77f1488655a5))
   (pad "1" thru_hole rect (at 0 0) (size 2.54 2.54) (drill 1.45) (layers *.Cu *.Mask) (tstamp ef66fa71-47cd-4bcf-9706-55b8307bc064))
+  (model "${KIPRJMOD}/3Dmodels/7461093_Download_STP_7461093_rev1.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
